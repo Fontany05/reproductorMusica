@@ -1,4 +1,4 @@
-#** Reproducto de musica**
+#** Reproductor de musica**
 
 Appweb,es un reproductor de musica simple,permite reproducir musica almacenada en el mismo(primera version).
 
