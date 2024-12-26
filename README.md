@@ -1,4 +1,10 @@
 #** Reproducto de musica**
 
-App para reproducir musica almacenada,es un reproductor programado con javascript,montor html,css y motor de plantill ejs.
+Appweb,es un reproductor de musica simple,permite reproducir musica almacenada en el mismo(primera version).
+
+#** Tecnologias**
+
+-html,css,plantillas ejs y javascript.
+
+Proposito del proyecto: practica de javascript puro. 
 
